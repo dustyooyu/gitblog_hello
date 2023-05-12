@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "New Psot Test"
-date: 2023-05-12 16:46:00 +0900
-categories: jekyll uptate
+title: second file
+date:	2023-05-12 17:05:01 +0900
+categories: jekyll update
 ---
-
 hello?
